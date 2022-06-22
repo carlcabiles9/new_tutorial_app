@@ -1,0 +1,20 @@
+.app{
+    background-color: red;
+    font-size: 50px;
+    
+}
+
+.button{
+    background-color: maroon !important;
+    float: right
+}
+
+.text{
+    font-weight: bold;
+    font-size: 100px
+}
+
+.anotherButton {
+    background-color: blueviolet !important;
+    float: right
+}
